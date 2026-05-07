@@ -36,7 +36,7 @@ If you're new to the underlying concepts (skills, harness, hooks, sub-agents), s
 **Install**
 
 ```bash
-git clone https://github.com/<your-username>/claude-fund-research.git
+git clone https://github.com/tongNJ/claude-fund-ppm-analysis.git
 cd claude-fund-research
 ./install.sh
 ```
