@@ -1,0 +1,18 @@
+{
+  "_comment": "Copy this file to ~/.claude/settings.json (or merge with existing). It pre-approves the tools used by the analyzing-fund-ppm skill and ppm-extractor sub-agent so batch runs don't pause for permission prompts. See docs/permissions.md for full explanation.",
+  "permissions": {
+    "allow": [
+      "Read",
+      "Write",
+      "Glob",
+      "Bash(pdftotext:*)",
+      "Bash(python3:*)",
+      "Bash(node:*)",
+      "Bash(npm:*)",
+      "Bash(mkdir:*)",
+      "Bash(rm:*)",
+      "Bash(cat:*)",
+      "Bash(ls:*)"
+    ]
+  }
+}
