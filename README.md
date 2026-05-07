@@ -1,5 +1,9 @@
 # claude-fund-research
 
+### See an example before installing
+
+Curious what the output looks like? Open [`skills/analyzing-fund-ppm/examples/example-fund-ppm-analysis.docx`](skills/analyzing-fund-ppm/examples/example-fund-ppm-analysis.docx) for a sanitized 5-page sample showing all 10 sections of a typical PPM analysis. Everything in it (fund name, manager, key persons) is fictional — the example is purely illustrative.
+
 A growing collection of [Claude Code](https://docs.claude.com/en/docs/claude-code/overview) skills, sub-agents, and slash commands for hedge fund research workflows — built by an investment analyst, for analysts.
 
 The goal is to take repetitive analyst tasks (reading PPMs, polishing meeting notes, writing DD memos, running batch analyses) and turn them into reliable, reusable Claude Code workflows that produce institutional-quality output.
